@@ -1,0 +1,6 @@
+venv/
+.venv/
+__pycache__/
+hand_landmarker.task
+data.csv
+model.npz
